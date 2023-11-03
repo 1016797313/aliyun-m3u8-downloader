@@ -5,6 +5,7 @@ go 1.18
 require (
 	github.com/PuerkitoBio/goquery v1.8.1
 	github.com/TarsCloud/TarsGo v1.4.4
+	github.com/adrg/go-wkhtmltopdf v0.3.0
 	github.com/avast/retry-go/v4 v4.3.4
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/bytecodealliance/wasmtime-go/v12 v12.0.0
