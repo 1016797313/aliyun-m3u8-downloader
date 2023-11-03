@@ -11,7 +11,6 @@ aliyun-m3u8-downloader 是一个使用了 Go 语言编写的迷你 M3U8 下载�
 - **百度智能云视频点播**
 - **华为云视频点播**
 - **气球云视频点播**
-- ~~[保利威视 Polyv](https://www.polyv.net/)~~ 不在支持
 
 ### 联系开发者
 
@@ -25,7 +24,7 @@ aliyun-m3u8-downloader 是一个使用了 Go 语言编写的迷你 M3U8 下载�
 - [x] [光环国际](https://yun.aura.cn)
 - [x] [中公网校](https://www.eoffcn.com)
 - [x] [学培课堂](https://www.fhzjedu.com)
-- [x] [云上虎](https://www.beijingyunshanghu.com/)
+- [x] [云上虎](https://www.huohujiaoyu.com)
 - [x] [银成医考](https://wx.yixueks.com)
 - [x] [51cto](https://edu.51cto.com) 普通课程、精品课（微职位）
 - [x] [某兽医app](https://www.med126.com/)
@@ -36,15 +35,6 @@ aliyun-m3u8-downloader 是一个使用了 Go 语言编写的迷你 M3U8 下载�
 
 - [x] [现代卓越](https://remote.chinapm.org/)
 - [x] [常道教育](https://daoyanqianxiang.com/)
-
-#### ~~保利威视~~
-
-- [x] [马士兵](https://www.mashibing.com/)
-- [ ] [百战程序员](https://www.itbaizhan.com/)
-- [ ] [库课网校](https://www.kuke99.com/)
-- [ ] [昭昭医考](https://www.yikao88.com/)
-- [ ] [翼狐网](https://www.yiihuu.com/)
-- [ ] [cgjoy课堂](https://www.cgjoy.com/h5/pages/course/index/index)
 
 #### 其他
  
