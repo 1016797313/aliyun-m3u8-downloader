@@ -4,13 +4,14 @@ aliyun-m3u8-downloader 是一个使用了 Go 语言编写的迷你 M3U8 下载�
 
 本工具只供学习研究，如有侵权请联系删除
 
-## 定制
-可定制开发使用以下视频云服务的第三方平台下载器，详细咨询微信：lbbniu-com
+## 支持
+可交流以下视频云服务的第三方平台下载器的逆向技术，逆向交流微信：lbbniu-com
 - **阿里云私有音视频加密**
 - **火山引擎视频云点播**
 - **百度智能云视频点播**
 - **华为云视频点播**
 - **气球云视频点播**
+- **[保利威视 Polyv](https://www.polyv.net/)** 逆向分析进行中...
 
 ### 联系开发者
 
@@ -35,6 +36,15 @@ aliyun-m3u8-downloader 是一个使用了 Go 语言编写的迷你 M3U8 下载�
 
 - [x] [现代卓越](https://remote.chinapm.org/)
 - [x] [常道教育](https://daoyanqianxiang.com/)
+
+#### 保利威视
+
+- [ ] [马士兵](https://www.mashibing.com/)
+- [ ] [百战程序员](https://www.itbaizhan.com/)
+- [ ] [库课网校](https://www.kuke99.com/)
+- [ ] [昭昭医考](https://www.yikao88.com/)
+- [ ] [翼狐网](https://www.yiihuu.com/)
+- [ ] [cgjoy课堂](https://www.cgjoy.com/h5/pages/course/index/index)
 
 #### 其他
  
